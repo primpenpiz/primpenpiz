@@ -4,7 +4,7 @@
   📆 I'm a General Manager of SolveServeSolution 
 
 
-  🏫 I'm a First year student at CEDT-Chula 
+  👩🏻‍💻 I'm a First year student at CEDT-Chula 
   <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -13,6 +13,7 @@
  <!-- ## Skills🤘🤘
 - Can write C++
 - Hate Algorithm -->
+
 
 
 ## 📊 GitHub Stats
@@ -38,6 +39,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 
+## 🎼Hobby
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
+
 
 <p align="center">
   <i>My Contact</i>
@@ -49,6 +54,8 @@
    [![Facebook Badge](https://img.shields.io/badge/-Penpitcha_Ketpetch-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
   
    <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+
+  
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
